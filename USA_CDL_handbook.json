@@ -348,5 +348,12 @@
     "state_name": "Wyoming",
     "document": "https://drive.google.com/uc?export=download&id=1GYGeGKC0AZZ3waJqOaWJHikGg_gLroXJ",
     "document_name": "Wyoming CDL Handbook"
+  },
+  {
+    "id": 51,
+    "code": "CO",
+    "state_name": "Colorado",
+    "document": "https://drive.google.com/uc?export=download&id=1JI2QFxkNqSaYdtTr4mxn4-idoyWCSSQi",
+    "document_name": "Colorado CDL Handbook"
   }
 ]
